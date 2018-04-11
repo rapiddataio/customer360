@@ -1,0 +1,1 @@
+# Hive DDLs and DMLs
